@@ -1,2 +1,2 @@
-Set-Content README.md "# Python Course"
+Треним питон
 
